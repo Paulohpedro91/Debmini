@@ -23,3 +23,5 @@ apt install -y\
     xfwm4 \
     adwaita-qt \
     firefox-esr \    
+    mousepad \
+    network-manager*\
